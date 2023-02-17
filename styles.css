@@ -299,6 +299,10 @@ footer > p {
     font-size: 5.2rem;
   }
 
+  .contact-link {
+    padding: 1rem 4rem;
+  }
+
   .contact-link:hover {
     transform: translateY(-8px);
   }
