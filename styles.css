@@ -227,7 +227,7 @@ h2 {
 footer {
   padding: 2rem 12rem;
   display: flex;
-  justify-content: space-between;
+  justify-content: end;
   background-color: var(--main-gray);
   border-top: 0.5rem solid var(--main-red);
 }
